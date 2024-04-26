@@ -9,5 +9,24 @@
     "mysql": "^2.18.1",
     "node": "^18.20.1",
     "nodemon": "^3.1.0"
-  }
+  },
+  "name": "jijaimasale_git",
+  "description": "http://localhost:4000/",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilbor407/jijaimasale.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilbor407/jijaimasale/issues"
+  },
+  "homepage": "https://github.com/nilbor407/jijaimasale#readme"
 }
